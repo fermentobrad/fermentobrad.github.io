@@ -1,4 +1,6 @@
 baseURL = 'https://gray-grass-022b6ae00.1.azurestaticapps.net/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'en-au'
+title = 'Fermento Blog'
 theme = "risotto"
+[author]
+	name = 'Brad'
