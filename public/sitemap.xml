@@ -2,12 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://gray-grass-022b6ae00.1.azurestaticapps.net/first_post/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://gray-grass-022b6ae00.1.azurestaticapps.net/categories/</loc>
+    <loc>https://gray-grass-022b6ae00.1.azurestaticapps.net/posts/my-first-post/</loc>
+    <lastmod>2022-09-06T22:26:02+10:00</lastmod>
   </url><url>
     <loc>https://gray-grass-022b6ae00.1.azurestaticapps.net/</loc>
+    <lastmod>2022-09-06T22:26:02+10:00</lastmod>
+  </url><url>
+    <loc>https://gray-grass-022b6ae00.1.azurestaticapps.net/posts/</loc>
+    <lastmod>2022-09-06T22:26:02+10:00</lastmod>
+  </url><url>
+    <loc>https://gray-grass-022b6ae00.1.azurestaticapps.net/categories/</loc>
   </url><url>
     <loc>https://gray-grass-022b6ae00.1.azurestaticapps.net/tags/</loc>
   </url>
