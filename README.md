@@ -1,2 +1,2 @@
-# fermentobradweb
-personal static website for hobby
+# fermentobrad
+a hugo blog, possibly hobby of interest
