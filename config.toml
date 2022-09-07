@@ -1,4 +1,4 @@
-baseURL = 'https://gentle-smoke-0149ae000.1.azurestaticapps.net/'
+baseURL = 'https://fermentobrad.github.io'
 languageCode = 'en-au'
 title = 'Fermento Blog'
 theme = "risotto"
